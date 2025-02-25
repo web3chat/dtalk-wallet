@@ -8,5 +8,7 @@ dtalk 安装包
 
 7z x imagesfile.zip.001
 
+## 安装
 
+参考: 谈信开源项目-部署文档.docx
 
